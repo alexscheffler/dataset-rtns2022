@@ -10,8 +10,8 @@ This repository contains the dataset used in the paper "Searching for Upper Dela
 If you are using the data provided here or the [NCorg DNC](https://github.com/NetCal/DNC) LB-FF or DS-FF extension for you research, please include the following reference in any resulting publication:
 
 ```bibtex
-@inproceedings{2022-SB-1,
-  author    = {Alexander Scheffler and Steffen Bondorf},
+@inproceedings{2022-SSB-1,
+  author    = {Alexander Scheffler, Jens Schmitt and Steffen Bondorf},
   title     = {Searching for Upper Delay Bounds in FIFO Multiplexing Feedforward Networks},
   booktitle = {the 30th International Conference on Real-Time Networks and Systems (RTNS 2022)},
   year      = {2022},
