@@ -7,7 +7,7 @@
 This repository contains the dataset used in the paper "Searching for Upper Delay Bounds in FIFO Multiplexing Feedforward Networks" which has been accepted at the [30th International Conference on Real-Time Networks and Systems (RTNS 2022)](https://rtns2022.inria.fr/).
 
 # Citation
-If you are using the data provided here or the [NCorg DNC](https://github.com/NetCal/DNC) LB-FF or DS-FF extension for you research, please include the following reference in any resulting publication:
+If you are using the data provided here or the [NCorg DNC](https://github.com/NetCal/DNC) LB-FF or DS-FF extension for your research, please include the following reference in any resulting publication:
 
 ```bibtex
 @inproceedings{2022-SSB-1,
